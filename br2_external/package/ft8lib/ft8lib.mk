@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-FT8LIB_VERSION = 117022b57e4260202c2d72001fb2d8f01937eaf7
+FT8LIB_VERSION = 73b0db861dc41c7ca9f3dedc73ee148daa06dd0e
 FT8LIB_SITE = https://github.com/gdyuldin/ft8_lib
 FT8LIB_SITE_METHOD = git
 FT8LIB_LICENSE = MIT
